@@ -36,7 +36,7 @@ Para utilizar o aplicativo, siga os passos abaixo:
 1. Faça login com seu e-mail corporativo e a senha fornecida pela empresa.
 2. No menu lateral, selecione a opção desejada: Dashboard, Solubilidade, Compatibilidade, Vídeos, Relatórios.
 
-![1](https://github.com/matfurrier/BioAppDS/assets/30526394/5946e7a6-5ad5-4115-a50a-b66129c592c3)
+![1](https://github.com/matfurrier/BioAppDS/assets/30526394/31604e39-773c-4e4a-b42a-faf77ed488dc)
 
 3. Na análise de solubilidade, você pode filtrar os itens por qualquer uma das colunas. 
 
@@ -66,3 +66,4 @@ Contribuições são sempre bem-vindas!
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
 
 Link do Projeto: [https://github.com/matfurrier/BioAppDS](https://github.com/matfurrier/BioAppDS)
+
