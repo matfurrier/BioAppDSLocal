@@ -30,8 +30,6 @@ Certifique-se de ter o Node.js e NPM instalados em sua máquina antes de seguir 
 **Passo a passo**
 Siga os passos abaixo para configurar e executar o projeto localmente:
 
-[Instruções para instalação]
-
 ## 🎮 Uso
 Para utilizar o aplicativo, siga os passos abaixo:
 
