@@ -15,15 +15,13 @@
 ## 🎯 Funcionalidades
 As principais funcionalidades do aplicativo são:
 1. Menu lateral para navegação fácil e rápida:
-    - Dashboard (Página Principal)
-    - Solubilidade (Realize análises e pesquisas sobre a solubilidade de substâncias. Descubra a capacidade de uma substância se dissolver em outra e explore os fatores que influenciam esse processo.)
-    - Compatibilidade (Verifique a compatibilidade entre diferentes produtos biológicos e comerciais. Explore as classes de substâncias, ingredientes ativos e seu status de compatibilidade. Com esta análise, você pode identificar possíveis interações e tomar decisões informadas sobre a compatibilidade de diferentes produtos.)
-    - Vídeos (Listagem de todos os vídeos disponíveis)
-    - Relatórios (Listagem de todos os relatórios disponíveis)
-2. Análise de compatibilidade de produtos
-3. Análise de solubilidade de produtos
-4. Possibilidade de filtrar itens por qualquer coluna
-5. Acesso a vídeos de apresentação e arquivos relevantes diretamente na plataforma
+    - **Dashboard** (Página Principal)
+    - **Solubilidade** -Realize análises e pesquisas sobre a solubilidade de substâncias. Descubra a capacidade de uma substância se dissolver em outra e explore os fatores que influenciam esse processo.
+    - **Compatibilidade** - Verifique a compatibilidade entre diferentes produtos biológicos e comerciais. Explore as classes de substâncias, ingredientes ativos e seu status de compatibilidade. Com esta análise, você pode identificar possíveis interações e tomar decisões informadas sobre a compatibilidade de diferentes produtos.
+    - **Vídeos** - Listagem de todos os vídeos disponíveis.
+    - **Relatórios** - Listagem de todos os relatórios disponíveis.
+3. Possibilidade de filtrar itens por qualquer coluna
+4. Acesso a vídeos de apresentação e arquivos relevantes diretamente na plataforma
 
 ## ⚙ Instalação
 **Pré-requisitos**
